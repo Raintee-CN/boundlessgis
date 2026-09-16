@@ -1,0 +1,6 @@
+comment = 'BoundlessGIS extras: ST_AsMLT MapLibre Tile encoder'
+default_version = '1.0'
+module_pathname = '$libdir/boundlessgis'
+relocatable = false
+requires = 'postgis'
+superuser = true

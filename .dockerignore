@@ -1,0 +1,17 @@
+postgresql
+postgis
+.git
+web/node_modules
+web/dist
+**/.git
+**/build
+**/node_modules
+maplibre-tile-spec/java
+maplibre-tile-spec/ts
+maplibre-tile-spec/qgis
+maplibre-tile-spec/docs
+maplibre-tile-spec/test
+maplibre-tile-spec/rust
+maplibre-tile-spec/cpp/vendor/googletest
+maplibre-tile-spec/cpp/vendor/json
+maplibre-tile-spec/cpp/vendor/earcut/vendor
